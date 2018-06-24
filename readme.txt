@@ -1,0 +1,1 @@
+在当前目录下打开cmd.执行：java -jar target/benchmarks.jar
